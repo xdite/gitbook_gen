@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    gitbook_gen (0.1.1)
+    gitbook_gen (0.1.2)
       activesupport
       thor
 
