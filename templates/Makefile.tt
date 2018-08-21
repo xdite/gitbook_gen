@@ -1,0 +1,4 @@
+gitbook:
+	gitbook epub ./ ~/Dropbox/ebook_output/<%= config[:name] %>.epub
+commit:
+	git add .; git commit -m "update"
