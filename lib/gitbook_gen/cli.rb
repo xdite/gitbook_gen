@@ -9,8 +9,8 @@ module GitbookGen
     end
 
 
-    desc "generate NAME", "建立目录夹"
-    def generate(original_name, number = 10)
+    desc "book NAME", "建立目录夹"
+    def book(original_name, number = 10)
       name = original_name.dup.gsub!(" ", "_").underscore
 
       empty_directory name # 新增目录
