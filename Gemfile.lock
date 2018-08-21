@@ -6,7 +6,7 @@ PATH
       thor
 
 GEM
-  remote: https://rubygems.org/
+  remote: http://rubygems.org/
   specs:
     activesupport (5.2.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
