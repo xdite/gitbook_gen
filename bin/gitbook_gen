@@ -1,4 +1,0 @@
-#!/usr/bin/env ruby
-require 'gitbook_gen'
-
-GitbookGen::CLI.start
